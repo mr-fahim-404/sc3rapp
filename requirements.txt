@@ -1,0 +1,2 @@
+pyrogram
+aiogram==2.6
